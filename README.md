@@ -1,6 +1,1 @@
-- 👋 Hola,soy el @ElAnonimous22
-- 👀 Estoy interesado en aprender informatica
-- 🌱 Ahora mismo estoy en el extraescolar Codelearn pero creo que necessito algo mas,por eso e venido a github
-- 💞️ Quiero colaborar con Google
-- 📫 Si quieres hablarme,hablame por gmail:tutivenmatheo9@gmail.com
-- ⚡ Facto gracioso:No tengo :/
+Sin 🕓 para bios,solo trabajo,productividad y disciplina
